@@ -1,7 +1,7 @@
 class ClaudeReskin < Formula
   desc "Claude Code skill for system reskinning and refactoring"
-  homepage "https://github.com/roubaojiasudu/claude-reskin"
-  url "https://github.com/roubaojiasudu/claude-reskin/archive/refs/tags/v1.0.0.tar.gz"
+  homepage "https://github.com/tc6-01/claude-reskin"
+  url "https://github.com/tc6-01/claude-reskin/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "" # Will be filled after first release
   license "MIT"
 

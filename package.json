@@ -11,10 +11,10 @@
     "rebranding"
   ],
   "license": "MIT",
-  "author": "roubaojiasudu",
+  "author": "tc6-01",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roubaojiasudu/claude-reskin"
+    "url": "https://github.com/tc6-01/claude-reskin"
   },
   "files": [
     "SKILL.md",

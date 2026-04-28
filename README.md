@@ -13,13 +13,13 @@ npm install -g claude-reskin
 ### Homebrew
 
 ```bash
-brew install roubaojiasudu/tap/claude-reskin
+brew install tc6-01/tap/claude-reskin
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/roubaojiasudu/claude-reskin.git
+git clone https://github.com/tc6-01/claude-reskin.git
 mkdir -p ~/.claude/skills/reskin
 cp claude-reskin/SKILL.md ~/.claude/skills/reskin/
 cp -r claude-reskin/templates ~/.claude/skills/reskin/
