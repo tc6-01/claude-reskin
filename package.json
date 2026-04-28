@@ -1,0 +1,30 @@
+{
+  "name": "claude-reskin",
+  "version": "1.0.0",
+  "description": "Claude Code skill for system reskinning/refactoring — thoroughly understand the system first, then execute autonomously.",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "reskin",
+    "refactoring",
+    "system-migration",
+    "rebranding"
+  ],
+  "license": "MIT",
+  "author": "roubaojiasudu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roubaojiasudu/claude-reskin"
+  },
+  "files": [
+    "SKILL.md",
+    "templates/",
+    "install.js"
+  ],
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
